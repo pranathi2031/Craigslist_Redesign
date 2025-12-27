@@ -1,0 +1,334 @@
+{
+    "Categories":[
+    { 
+        "name": "Community",
+        "icon": "fa fa-users",
+        "url":"Community",
+        "subcategories":[
+            {
+             "name":"Activity Partners",
+             "url":"ActivityPartners"
+            },
+            {
+             "name":"Artists",
+             "url":"Artists"
+            },
+            {
+             "name":"Childcare",
+             "url":"Childcare"
+            },
+            {
+             "name":"Classes",
+             "url":"Classes"
+            },
+            {
+              "name":"Events",
+              "url":"Events"
+            },
+            {
+              "name":"General",
+              "url":"General"
+            },
+            {
+             "name":"Groups",
+             "url":"Groups"
+            },
+            {
+             "name":"Local News",
+             "url":"LocalNews"
+            },
+            {
+             "name":"Lost & Found",
+             "url":"LostandFound"
+            },
+            {
+             "name":"Missed Connections",
+             "url":"MissedConnections"
+            },
+            {
+                "name":"Musicians",
+                "url":"Musicians"
+            },
+            {
+              "name":"Pets",
+              "url":"Pets"
+            },
+            {
+              "name":"Politics",
+              "url":"Politics"
+            },
+            {
+              "name":"Rants & Raves",
+              "url":"RantsandRaves"
+            },
+            {
+              "name":"Rideshares",
+              "url":"Rideshares"
+            },
+            {
+              "name":"Volunteers",
+              "url":"Volunteers"
+            }
+        ]
+            
+    },
+    { 
+        "name": "For Sale",
+        "icon": "fa fa-tags",
+        "url":"ForSale",
+        "subcategories"
+        : [
+          {
+            "name":"Antiques & Collectibles",
+            "url":"AntiquesandCollectibles"
+          },
+          {
+            "name":"Home & Furniture",
+            "url":"HomeandFurniture"
+          },
+          {
+            "name":"Arts & Crafts",
+            "url":"ArtsandCrafts"
+          },
+          {
+            "name":"Automative & Transportation",
+            "url":"AutomativeandTransportation"
+          },
+          {
+            "name":"Boats & Aviation",
+            "url":"BoatsandAviation"
+          },
+          {
+            "name":"Electronics & Technology ",
+            "url":"Electronics"
+          },
+          {
+            "name":"Books & Media",
+            "url":"BooksandMedia"
+          },
+          {
+            "name":"Fashion & Personal Care",
+            "url":"Fashion"
+          },
+          {
+            "name":"Outdoor & Sporting Goods",
+            "url":"Outdoor"
+          },
+          {
+            "name":"Kids & Toys",
+            "url":"KidsandToys"
+          },
+          {
+            "name":"Business",
+            "url":"Business"
+          },
+          {
+            "name":"Heavy Equipment",
+            "url":"HeavyEquipment"
+          },
+          {
+            "name":"Events & Tickets",
+            "url":"Tickets"
+          },
+          {
+            "name":"Micellaneous",
+            "url":"Micellaneous"
+          },
+          {
+            "name":"Wanted",
+            "url":"Wanted"
+          }
+
+             
+          ]
+    },
+    { 
+        "name": "Gigs",
+        "icon": "fa fa-music",
+        "url":"Gigs",
+        "subcategories"
+        : [
+          {
+            "name":"Computer Gigs",
+            "url":"ComputerGigs"
+          },
+          {
+            "name":"Creative Gigs",
+            "url":"CreativeGigs"
+          },
+          {
+            "name":"Crew Gigs",
+            "url":"CrewGigs"
+          },
+          {
+            "name":"Domestic Gigs",
+            "url":"DomesticGigs"
+          },
+          {
+            "name":"Event Gigs",
+            "url":"EventGigs"
+          },
+          {
+            "name":"Labour Gigs",
+            "url":"LabourGigs"
+          },
+          {
+            "name":"Talent Gigs",
+            "url":"TalentGigs"
+          },
+          {
+            "name":"Writing Gigs",
+            "url":"WritingGigs"
+          }
+
+          ]
+    },
+    { 
+        "name": "Housing",
+        "icon": "fa fa-home",
+        "url":"Housing",
+        "subcategories"
+        : [
+          {
+          "name":"Available for rent",
+          "url":"Available"
+          },
+          {
+            "name":"Housing Swap",
+            "url":"HousingSwap"
+          },{
+            "name":"Office & Commercial",
+            "url":"OfficeandCommercial"
+          },{
+            "name":"Parking & Storage",
+            "url":"ParkingandStorage"
+          },{
+            "name":"Housing for Sale",
+            "url":"HousingForSale"
+          },{
+            "name":"Room Sharing",
+            "url":"RoomSharing"
+          },{
+            "name":"Sublets & Temporary",
+            "url":"Sublets"
+          },{
+            "name":"Vacation Rentals",
+            "url":"VacationRentals"
+          },{
+            "name":"Wanted:Apartments",
+            "url":"WantedApartments"
+          },{
+            "name":"Wanted:Realestate",
+            "url":"WantedRealestate"
+          },{
+            "name":"Wanted:Room/Share",
+            "url":"WantedRoom"
+          },{
+            "name":"Wanted:Sublet/Temp",
+            "url":"WantedSublet"
+          }
+             
+          ]
+    },
+    { 
+        "name": "Jobs",
+        "icon": "fa fa-briefcase",
+        "url":"Jobs",
+        "subcategories"
+        : [
+          {
+            "name":"Administrative Roles",
+            "url":"AdministrativeRoles"
+          },{
+            "name":"Creative & Media",
+            "url":"CreativeandMedia"
+          },{
+            "name":"Technical & IT",
+            "url":"Technical"
+          },{
+            "name":"Engineering & Skilled",
+            "url":"Engineering"
+          },{
+            "name":"Healthcare & Science",
+            "url":"Healthcare"
+          },{
+            "name":"Business & Management",
+            "url":"Business"
+          },{
+            "name":"Education & Nonprofit",
+            "url":"Education"
+          },{
+            "name":"Hospitality & Customer Service",
+            "url":"Hospitatlity"
+          },{
+            "name":"Retail & Real Estate",
+            "url":"Retail"
+          },{
+            "name":"Government & Legal",
+            "url":"Government"
+          },{
+            "name":"Security & General Labour",
+            "url":"Security"
+          },{
+            "name":"Transporation & Logistics",
+            "url":"Logistics"
+          }
+          ]
+    },
+    { 
+        "name": "Services",
+        "icon": "fa fa-cogs",
+        "url":"Services",
+        "subcategories"
+        : [
+          {
+            "name":"Automotive",
+            "url":"Automotive"
+          },
+          {
+            "name":"Beauty & Health",
+            "url":"Beauty"
+          },
+          {
+            "name":"Technology & Electronics",
+            "url":"Technology"
+          },
+          {
+            "name":"Education & Training",
+            "url":"Edu&Train"
+          },
+          {
+            "name":"Household & Lifestyle",
+            "url":"Logistics"
+          },
+          {
+            "name":"Real Estate & Business",
+            "url":"Real Estate"
+          },
+          {
+            "name":"Labour and Skilled Work",
+            "url":"Labour"
+          },
+          {
+            "name":"Editing",
+            "url":"Editing"
+          },
+          {
+            "name":"Legal & Professional",
+            "url":"Professional"
+          },
+          {
+            "name":"Travel & Leisure",
+            "url":"Travel"
+          }
+             
+          ]
+    },
+    { 
+        "name": "View All",
+        "icon": "fa fa-th-large",
+        "url":"View All"
+    }
+]    
+}
+   
